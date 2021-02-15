@@ -1,2 +1,2 @@
 # corona_stock_change
-Compare stock dips as a result of coronavirus lockdown
+Simple python script that utilizes 2D arrays of stock tickers to compute the percent change of price that resulted from coronavirus dip.
